@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Ashutosh Pandey
+- 👋 Hi, I’m @Anshika Pal
 - 👀 I’m interested in book, podcast, programing
-- ✨ I'm polymath- Programmer, Artist, Editer 
-- 🌱 I know PYTHON, SQL, MARKDOWN
-- 💞️ Looking to collaborate on python project
+- 🌱 I know HTML, CSS, JS
+- 💞️ Looking to collaborate on Web project
 - 📫 Reach me on GitHub
